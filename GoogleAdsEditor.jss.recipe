@@ -28,7 +28,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>icom.github.foigus.pkg.googleadseditor</string>
+	<string>com.github.foigus.pkg.googleadseditor</string>
 	<key>Process</key>
 	<array>
 		<dict>
